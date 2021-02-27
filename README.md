@@ -5,7 +5,7 @@ It is part of the protocol for the elaboration, construction, and validation of 
 
 
 
-# Estructura del test
+# Estructura del test [Protocolo]
 ## Nombre
 	Como la identifica, enunciar los parámetros esenciales que se miden. Definición de lo que se desea medirDetermina con precisión lo que la prueba aborda.Objetivo
 	 Claridad de lo que se quiere medir para (fase de validación) ser acertados en la elección del criterio.Fundamentación teórica	
